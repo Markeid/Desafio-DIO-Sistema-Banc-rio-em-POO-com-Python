@@ -9,3 +9,8 @@
 Este é um desafio de projeto do **Coding The Future Vivo - Python AI Backend Developer** 
 
 Desafio: Modelando o Sistema Bancário em POO com Python
+
+Dependências 🔧
+Este projeto utiliza a biblioteca colorama para adicionar cores ao terminal. Para instalar essa biblioteca, execute o seguinte comando no terminal:
+
+pip install colorama
